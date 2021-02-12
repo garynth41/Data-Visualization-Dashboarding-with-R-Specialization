@@ -1,4 +1,4 @@
-####Functions
+####Functions 01-10-21
 
 add <- function(x,y){
   x+y
@@ -54,6 +54,7 @@ summary(my_vector) ### a five number summary
 ##### Other functions will sort vectors or tell you information about the vector
 
 my_vector<-c(2,2,1,3,5)
+
 
 sort(my_vector)
 rev(my_vector)
